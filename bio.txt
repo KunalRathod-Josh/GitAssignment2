@@ -1,3 +1,4 @@
 Name - Kunal Rathod
-Rle - Software Engineer
+Role - Software Engineer
+Hobby - Travelling, Designing
 
